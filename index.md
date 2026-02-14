@@ -1,6 +1,6 @@
 # 🔒 Política de Privacidade — Simo
 
-**Última atualização:** Fevereiro de 2026
+**Última atualização:** Fevereiro de 2026  
 
 Bem-vindo ao **Simo**. Esta Política de Privacidade explica como coletamos, utilizamos e protegemos as informações dos usuários ao utilizar nosso aplicativo. Ao usar o Simo, você concorda com os termos descritos abaixo.
 
@@ -130,9 +130,12 @@ Esta Política pode ser atualizada periodicamente para refletir melhorias no apl
 
 ---
 
-## 📩 9. Contato
+## 📩 9. Contato do Desenvolvedor
 
-Em caso de dúvidas sobre esta Política de Privacidade, utilize os canais oficiais disponibilizados na página do aplicativo.
+Se você tiver dúvidas, solicitações ou preocupações relacionadas à privacidade:
+
+**Desenvolvedor:** FCA developer  
+**Email:** devbrfelipe@gmail.com  
 
 ---
 
